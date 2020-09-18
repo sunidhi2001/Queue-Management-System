@@ -19,4 +19,8 @@ For payment there will be an UPI QR code and Bank AC details pasted on trolley i
 The positivity behind this idea is, people will now not need to wait in queues for billing their products and will get save their time, and also there will be no mass gathering infront of the billing desk.
 The uniqueness behind the idea is that it will break the convectional rule of payment procedures of the mall.
 
+##### For more details and proccess of our project 
+https://youtu.be/foAZHBI_-Q0
 
+###### For presentation about project work :
+https://www.canva.com/design/DAEIHT0QSNM/share/preview?token=_hw7N0TZZHseT4CtMuNB0g&role=EDITOR&utm_content=DAEIHT0QSNM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
