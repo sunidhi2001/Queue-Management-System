@@ -6,10 +6,10 @@ Nowadays , in shopping malls we have to wait for the billing in big lines . It a
 
 ### Team Name : "AMIGOS"
 Team Members : 
-1. Sunidhi Pandey
-2. Rishabh Dwivedi
-3. Prankit Sahu
-4. Rupal Das
+1. Sunidhi Pandey (https://www.linkedin.com/in/sunidhi-pandey-96008b192/)
+2. Rishabh Dwivedi (https://www.linkedin.com/in/rishabh-dwivedi-28737b1a0/)
+3. Prankit Sahu (https://www.linkedin.com/in/prankit-sahu-bba5b4197/)
+4. Rupal Das (https://www.linkedin.com/in/rupal-das-0415a4195/)
 
 ## Idea (Brief)
 The main idea is to decrease the traffic in public shopping places like malls by implementing a convenient billing technology .
