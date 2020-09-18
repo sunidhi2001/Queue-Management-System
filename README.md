@@ -22,5 +22,5 @@ The uniqueness behind the idea is that it will break the convectional rule of pa
 ##### For more details and proccess of our project 
 https://youtu.be/foAZHBI_-Q0
 
-###### For presentation about project work :
+##### For presentation about our project work :
 https://www.canva.com/design/DAEIHT0QSNM/share/preview?token=_hw7N0TZZHseT4CtMuNB0g&role=EDITOR&utm_content=DAEIHT0QSNM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
