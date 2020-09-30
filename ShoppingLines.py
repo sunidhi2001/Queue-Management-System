@@ -31,7 +31,6 @@ while 1:
     else:
         print("product sucessfull added, select next")
         l.append(scan(i))
-print(l)
 amount=reduce(lambda x,y:x+y,l)
 print(f"your final amount is Rs.{amount}")
 print("PLEASE PAY THE AMOUNT AND TAKE AWAY YOUR ITEMS")
